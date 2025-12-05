@@ -29,3 +29,6 @@ let b = 87;
 let c = 7.5;
 
 ```
+
+
+<div style="background: red; width: 300px; height: 300px"></div>
